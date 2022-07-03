@@ -1,0 +1,27 @@
+h1{
+  color: steelblue;
+  text-align: center;
+  background-color: blanchedalmond;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.moyna{
+  color: white;
+  background-color: #CD5C5C;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  padding: 10px;
+  font-size: 1.5em;
+  margin: 30px auto;
+}
+.container{
+  
+  width: 100%;
+  height: auto;
+  margin: 25px;
+}
+img{
+  width: 580px;
+  height: auto;
+  margin: 20px;
+}
